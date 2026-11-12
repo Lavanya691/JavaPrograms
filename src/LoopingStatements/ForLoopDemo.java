@@ -136,9 +136,7 @@ public static void main(String [] args) {
 //	}else {
 //			System.out.println("It is not a Prime");
 //	}
-	
-	
-	
+		
 	
 // 1 to 100 prime numbers
 //	Scanner sc = new Scanner(System.in);
@@ -211,7 +209,7 @@ public static void main(String [] args) {
 //		System.out.println("It is not an Armstrong Number");
 //	}
 	
-	
+
 	
 //Fibanocci series
 //	Scanner sc = new Scanner(System.in);
@@ -229,6 +227,9 @@ public static void main(String [] args) {
 //	
 //	sc.close();	
 	
+	
+	
+
 
 }
 }

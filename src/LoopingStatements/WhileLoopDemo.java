@@ -1,5 +1,5 @@
 package LoopingStatements;
-import java.util.*;
+import java.io.*;
 public class WhileLoopDemo {
        public static void main(String [] args) {
 //    	   int i = 10;
@@ -17,7 +17,6 @@ public class WhileLoopDemo {
 //    		   i++;
 //    	   }
     	   
-
     	   
 //Multiplication table of 2
 //    	   int num = 2;
@@ -193,13 +192,19 @@ public class WhileLoopDemo {
    
     	   
 //Fibanocci Series
-    	   Scanner sc = new Scanner(System.in);
-    	   System.out.println("Enter any number : ");
-    	   int n = sc.nextInt();
-    	   int a=0,b=1;
-    	   while(n>0) {
-    		   
-    	   }
+//    	   Scanner sc = new Scanner(System.in);
+//    	   System.out.println("Enter any number : ");
+//    	   int n = sc.nextInt();
+//    	   int a=0,b=1;
+//    	   int i =1;
+//    	   while(i<=n) {
+//    		   System.out.print(a + " ");
+//    		   int c = a+b;
+//    		   a=b;
+//    		   b=c;
+//    		  
+//    		   i++;
+//    	   }
     	   
     	   
     		   
